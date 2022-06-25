@@ -38,7 +38,7 @@ body {
   background-color: var(--card-bg);
   max-width: 18.14em;
   max-height: min-content;
-  border-radius: 20px;
+  border-radius: 10px;
   padding: 1.3em;
   box-shadow: 0 0 30px 5px rgba(0, 0, 0, 0.2);
 }
