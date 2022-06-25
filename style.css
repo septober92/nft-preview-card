@@ -114,12 +114,12 @@ li {
 
 .price-date li {
   list-style: none;
+  align-items: center;
+  display: flex;
 }
 
 .price img,
 .date img {
-  vertical-align: middle;
-  padding-bottom: 4.5px;
   margin-right: 5px;
 }
 
