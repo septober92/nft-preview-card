@@ -64,12 +64,13 @@ body {
   width: 18.07em;
   opacity: 0;
   transition: 0.3s ease;
-  background-color: var(--cyan);
+  background-color: hsla(178, 100%, 50%, 0.5);
   border-radius: 10px;
+  cursor: pointer;
 }
 
 .nft-container:hover .overlay {
-  opacity: 0.8;
+  opacity: 1;
 }
 
 .icon {
