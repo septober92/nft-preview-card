@@ -83,7 +83,7 @@ body {
 
 .name {
   color: var(--white);
-  font-weight: 400;
+  font-weight: 600;
   font-size: 22px;
   align-self: flex-start;
   margin-bottom: 1em;
@@ -142,6 +142,7 @@ li {
   justify-content: flex-start;
   gap: 15px;
   flex: 1;
+  margin-bottom: 0.5em;
 }
 
 a {
